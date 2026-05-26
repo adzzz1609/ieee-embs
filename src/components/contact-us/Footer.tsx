@@ -73,7 +73,7 @@ export default function Footer() {
               </p>
 
               <p className="text-lg font-medium">
-                ieee-embs
+                ieee-embs-chapter-vit
               </p>
             </div>
           </a>
@@ -98,7 +98,7 @@ export default function Footer() {
               </p>
 
               <p className="text-lg font-medium">
-                ieee embs chapter-vit
+                IEEE.EMBS.VIT
               </p>
             </div>
           </a>
